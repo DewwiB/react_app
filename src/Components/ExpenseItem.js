@@ -1,4 +1,4 @@
-import "./ExpenseItem.css";
+import "./Components/ExpenseItem.css";
 
 export default function ExpenseItem(props) {
   
