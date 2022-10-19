@@ -10,6 +10,7 @@ export default function ExpenseDate(props){
             <div>{month}</div>
             <div>{day}</div>
             <div>{year}</div>
+            <div>test</div>
         </div>
     );
 }
