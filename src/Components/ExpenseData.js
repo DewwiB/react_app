@@ -11,6 +11,7 @@ export default function ExpenseDate(props){
             <div>{day}</div>
             <div>{year}</div>
             <div>commit1</div>
+            <div>commit2</div>
         </div>
     );
 }
