@@ -4,7 +4,6 @@ import "./Expenses.css";
 
 export default function Expenses(props){
 
-
     return (
         <Card className="expenses">
             <ExpenseItem
